@@ -15,12 +15,12 @@
 - In 2007 researchers were able to create a map of the area, labeling the mounds of the Pierce Site, as well as a few other potential sites nearby. 
 
 ### The first map drawn of Pierce Mounds in 1902.
-![Image](mooremap.jpg)
+![Image](mooremap.png)
 
 ### A later map drawn of Pierce Mounds in 1959.
-![Image](searsmap.jpg)
+![Image](searsmap.png)
 
 ### The most current map of Pierce Mounds from 2007.
-![Image](whitemap.jpg)
+![Image](whitemap.png)
 
 [NEXT](UsingLiDAR.md)
