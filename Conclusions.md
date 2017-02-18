@@ -19,8 +19,8 @@ After looking through our project we hope you can see why LiDAR is so important 
 White (2013)
 
 
-LiDAR data from: 2007 Florida Department of Emergency Management on NOAA. 
-
-Site History and Images from: Pierce Mounds Complex: An Ancient Capital in Northwest Florida by Nancy Marie White (2013)
+###### Sources
+Florida Division of Emergency Management. 2007 Florida Division of Emergency Management (FDEM) Lidar Project: Franklin County. Charleston, SC. NOAA's Ocean Service, Office for Coastal Management (OCM).
+White, Nancy. 2013	Pierce Mounds Complex: An Ancient Capital in Northwest Florida. Final Report to George J. Mahr, Apalachicola, Florida. University of South Florida. 
 
 [BACK](UsingLiDAR.md)
