@@ -17,11 +17,17 @@
 ### The first map drawn of Pierce Mounds in 1902.
 ![Image](mooremap.PNG)
 
+White (2013)
+
 ### A later map drawn of Pierce Mounds in 1959.
 ![Image](searsmap.PNG)
 
+White (2013)
+
 ### The most current map of Pierce Mounds from 2007.
 ![Image](whitemap.PNG)
+
+White (2013)
 
 
 Further information on Pierce Mounds can be found in the report Pierce Mounds Complex: An Ancient Capital in Northwest Florida by Nancy Marie White (2013). 
