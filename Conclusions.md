@@ -4,7 +4,7 @@
 - Continually utilizing LiDAR can help us keep an eye on this area and any potential environmental changes that might put the site at risk. 
 - Global warming puts many coastal sites at risk, and we want to protect all of them!
 
-[Watch Me](video.html)
+[Learn more about Global Warming!](video.html)
 
 # WHY IS IT IMPORTANT
 After looking through our project we hope you can see why LiDAR is so important to archaeologists. 
