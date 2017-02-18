@@ -19,7 +19,7 @@ dogs are nice
 ## They can be rude tho
 ### But they are soft
 **Birds suck** _Rats are gross_ `lizards are boring`
-![A FUCKING FLOWER] (https://github.com/kkreiser/workshop_2/blob/master/Hydrangeas.jpg)
+![FLOWER] (https://github.com/kkreiser/workshop_2/blob/master/Hydrangeas.jpg)
 
 # Header 1
 ## Header 2
