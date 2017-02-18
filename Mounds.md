@@ -5,30 +5,24 @@
 
 ![Image](whitemap.PNG)
 
-##### Mound A                                       Mound B                  
+##### Mound A (left)                and                      Mound B        (right)          
 
 ![Image](mounda.PNG)                                ![Image](moundb.PNG)    
 
 
-##### Mound C
+##### Mound C (left)            and           Mound D, E, and ? (right)
 
-![Image](moundc.PNG)
+![Image](moundc.PNG)                    ![Image](moundd.PNG)
 
-##### Mound D, E, and ?
 
-![Image](moundd.PNG)
+##### Temple        and Fr16
 
-##### Temple
+![Image](temple.PNG)        ![Image](fr16.PNG)
 
-![Image](temple.PNG)
-
-##### Fr16 
-
-![Image](fr16.PNG)
 
 ## But what about this mound?
 
 ![Image](newmound.PNG)
 
 
-[BACK](UsingLiDAR.md)
+[BACK](UsingLiDAR.md)   [NEXT](Conclusions.md)
