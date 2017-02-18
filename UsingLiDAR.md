@@ -3,7 +3,7 @@
 - The file we downloaded was from the 2007 Florida Department of Emergency Services survey in Franklin County. 
 - Our initial point cloud file was covered with vegetation in the area we wanted to survey, but the wetlands, Harbor, and roads of Apalachicola are easy to pinpoint. 
 
-![Image](original.png)
+![Image](original.PNG)
 
 - Through the magic of editing, we were able to eliminate all low vegetation that was registering within our data file. 
 - Removing this gave us a much clearer view of the ground, including the mounds in our area of interest. 
@@ -16,7 +16,7 @@
 - Sometimes it helps to look at LiDAR images different ways, we we created a Hillshade.
 - Hillshades show how light heights the landscape, emphasizing areas with shadow and direct sun which can draw our attention to areas of differing elevation. 
 
-![Image](hillshade.png)
+![Image](hillshade.PNG)
 
 ### Do you see any other areas of elevation in this image?
 
