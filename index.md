@@ -4,7 +4,7 @@
 
 ![Image](historic.PNG)
 
-## There are multipile mounds that make up a site. 
+## There are multipile mounds that make up the site. 
 
 ![Image](a.PNG)
 
@@ -14,9 +14,9 @@
 
 ![Image](ceramics.PNG)
 
+
 ## We want to utilize new technologies to study the site even further. 
 
+
+
 [CHECK OUT OUR PROJECT](Introduction.md)
-
-
-[NEXT](Introduction.md)
