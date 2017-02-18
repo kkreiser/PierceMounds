@@ -3,13 +3,12 @@
 - To do this we cropped our map to focus on each potential mound. 
 - We followed the 2007 map of Pierce Mound to identify each mound. 
 
-##### Mound A
+![Image](whitemap.PNG)
 
-![Image](mounda.PNG)
+##### Mound A                                       Mound B                  
 
-##### Mound B
+![Image](mounda.PNG)                                ![Image](moundb.PNG)    
 
-![Image](moundb.PNG)
 
 ##### Mound C
 
