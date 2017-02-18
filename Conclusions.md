@@ -20,6 +20,7 @@ White (2013)
 
 
 LiDAR data from: 2007 Florida Department of Emergency Management on NOAA. 
+
 Site History and Images from: Pierce Mounds Complex: An Ancient Capital in Northwest Florida by Nancy Marie White (2013)
 
 [BACK](UsingLiDAR.md)
