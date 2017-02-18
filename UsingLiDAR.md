@@ -9,8 +9,9 @@
 - Removing this gave us a much clearer view of the ground, including the mounds in our area of interest. 
 - The **red** indicates areas of high elevation, **blue** indicates areas of low elevation.
 
-![Image](DTM.png)
+![Image](naturalneighbor.png)
+
 ### How many mounds can you spot in this image?
 
-
+- 
 
