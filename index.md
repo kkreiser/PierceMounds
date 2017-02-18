@@ -11,6 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+dogs are nice
+ 1. they eat poop
+ 2. they catch frisbees
+ - they sniff butts
+# Cats are alright
+## They can be rude tho
+### But they are soft
+**Birds suck** _Rats are gross_ `lizards are boring`
+
 # Header 1
 ## Header 2
 ### Header 3
