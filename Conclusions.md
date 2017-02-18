@@ -16,6 +16,8 @@ After looking through our project we hope you can see why LiDAR is so important 
 
 ![Image](UNIT.PNG)
 
+White (2013)
+
 
 LiDAR data from: 2007 Florida Department of Emergency Management on NOAA. 
 Site History and Images from: Pierce Mounds Complex: An Ancient Capital in Northwest Florida by Nancy Marie White (2013)
