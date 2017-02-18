@@ -24,7 +24,7 @@
 
 ![Image](newmound.PNG)
 
-While most of the mounds in this area are considered part of the Pierce Mound Complex, but based on previous survey of the area
+While most of the mounds in this area are considered part of the Pierce Mound Complex, based on previous survey of the area this mound is considered something unique! 
 
 
 [BACK](UsingLiDAR.md)   [NEXT](Conclusions.md)
