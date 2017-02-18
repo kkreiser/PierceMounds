@@ -20,7 +20,7 @@ White (2013)
 
 
 ###### Sources
-Florida Division of Emergency Management. 2007 Florida Division of Emergency Management (FDEM) Lidar Project: Franklin County. Charleston, SC. NOAA's Ocean Service, Office for Coastal Management (OCM).
-White, Nancy. 2013	Pierce Mounds Complex: An Ancient Capital in Northwest Florida. Final Report to George J. Mahr, Apalachicola, Florida. University of South Florida. 
+###### Florida Division of Emergency Management. 2007 Florida Division of Emergency Management (FDEM) Lidar Project: Franklin County. Charleston, SC. NOAA's Ocean Service, Office for Coastal Management (OCM).
+###### White, Nancy. 2013	Pierce Mounds Complex: An Ancient Capital in Northwest Florida. Final Report to George J. Mahr, Apalachicola, Florida. University of South Florida. 
 
 [BACK](UsingLiDAR.md)
