@@ -14,4 +14,11 @@
 - The site is dated to the Woodland and Fort Walton Period, and was likely occupied for 2000 years. 
 - In 2007 researchers were able to create a map of the area, labeling the mounds of the Pierce Site, as well as a few other potential sites nearby. 
 
-###
+### The first map drawn of Pierce Mounds in 1902.
+![Image](mooremap.jpg)
+
+### A later map drawn of Pierce Mounds in 1959.
+![Image](searsmap.jpg)
+
+### The most current map of Pierce Mounds from 2007.
+![Image](whitemap.jpg)
