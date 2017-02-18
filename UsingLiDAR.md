@@ -5,4 +5,12 @@
 
 ![Image](original.png)
 
+- Through the magic of editing, we were able to eliminate all low vegetation that was registering within our data file. 
+- Removing this gave us a much clearer view of the ground, including the mounds in our area of interest. 
+- The **red** indicates areas of high elevation, **blue** indicates areas of low elevation.
+
+![Image](DTM.png)
+### How many mounds can you spot in this image?
+
+
 
