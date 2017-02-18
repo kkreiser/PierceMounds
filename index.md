@@ -39,3 +39,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![FLOWER](Hydrangeas.jpg)
+
+
+# WHAT IS REMOTE SENSING?
+- Remote sinsing is using technology to to remotely find and study the enviornment.
+- LiDAR (Light Detection and Ranging) is one way to gather aerial images of the landscape.
+- We can use remote sensing to gather information from large areas that may be difficult to study from the ground.
+- Archaeologists can use remote sensing and LiDAR to find historic homesteads or foundations, old field furrows, mounds, or other earthworks.
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14081.730526727937!2d-82.41568265!3d28.072343449999998!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1487429916031" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
