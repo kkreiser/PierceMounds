@@ -10,19 +10,21 @@
 ![Image](mounda.PNG)                                ![Image](moundb.PNG)    
 
 
-##### Mound C (left)            and           Mound D, E, and ? (right)
+##### Mound C (left)            and           Mound G, E, and F (right)
 
 ![Image](moundc.PNG)                    ![Image](moundd.PNG)
 
 
-##### Temple        and Fr16
+##### Temple H        and Mound D
 
 ![Image](temple.PNG)        ![Image](fr16.PNG)
 
 
-## But what about this mound?
+## But what about this mound? A different site!
 
 ![Image](newmound.PNG)
+
+While most of the mounds in this area are considered part of the Pierce Mound Complex, but based on previous survey of the area
 
 
 [BACK](UsingLiDAR.md)   [NEXT](Conclusions.md)
