@@ -12,6 +12,5 @@ After looking through our project we hope you can see why LiDAR is so important 
 - We can use it to study _huge_ areas of land that would take a lot of time to survey just by walking. 
 - Using LiDAR can help us remotely study and watch a site over time, to make sure it's always protected and we document any potential environmental changes. 
 
-:shit:
 
 [BACK](UsingLiDAR.md)
