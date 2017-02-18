@@ -4,7 +4,7 @@
 - Continually utilizing LiDAR can help us keep an eye on this area and any potential environmental changes that might put the site at risk. 
 - Global warming puts many coastal sites at risk, and we want to protect all of them!
 
-[Learn more about Global Warming!](video.html)
+[Learn more about global warming here!](video.html)
 
 # WHY IS IT IMPORTANT
 After looking through our project we hope you can see why LiDAR is so important to archaeologists. 
@@ -12,5 +12,8 @@ After looking through our project we hope you can see why LiDAR is so important 
 - We can use it to study _huge_ areas of land that would take a lot of time to survey just by walking. 
 - Using LiDAR can help us remotely study and watch a site over time, to make sure it's always protected and we document any potential environmental changes. 
 
+# WE HOPE YOU LEARNED MORE ABOUT ARCHAEOLOGY AND REMOTE SENSING!
+
+![Image](UNIT.PNG)
 
 [BACK](UsingLiDAR.md)
