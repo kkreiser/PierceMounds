@@ -20,4 +20,4 @@
 
 ### Do you see any other areas of elevation in this image?
 
-[BACK](PierceMounds.md)               [Next](Mounds.md)
+[BACK](PierceMounds.md)               [NEXT](Mounds.md)
