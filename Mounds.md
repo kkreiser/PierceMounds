@@ -5,29 +5,31 @@
 
 ##### Mound A
 
+![Image](mounda.PNG)
 
 ##### Mound B
 
+![Image](moundb.PNG)
 
 ##### Mound C
 
-
+![Image](moundc.PNG)
 
 ##### Mound D, E, and ?
 
-
+![Image](moundd.PNG)
 
 ##### Temple
 
-
+![Image](temple.PNG)
 
 ##### Fr16 
 
-
+![Image](fr16.PNG)
 
 ## But what about this mound?
 
-
+![Image](newmound.PNG)
 
 
 [BACK](UsingLiDAR.md)
