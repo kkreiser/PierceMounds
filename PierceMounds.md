@@ -5,7 +5,7 @@
 - The Middle Woodland period was marked by an increase in trade goods from areas outside the southeastern United States. 
 
 ### This is the location of the site we will be looking at specifically.
-![Image](google earth turtle.jpeg)
+![Image](turtle.jpg)
 
 # PIERCE MOUNDS
 - Intial surveys in the early 1900s suggested there were 10 mounds at this site, but continued survey suggests even more mounds were built here.
