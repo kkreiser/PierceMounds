@@ -13,5 +13,11 @@
 
 ### How many mounds can you spot in this image?
 
-- 
+- Sometimes it helps to look at LiDAR images different ways, we we created a Hillshade.
+- Hillshades show how light heights the landscape, emphasizing areas with shadow and direct sun which can draw our attention to areas of differing elevation. 
+
+![Image](hillshade.png)
+
+### Do you see any other areas of elevation in this image?
+
 
