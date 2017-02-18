@@ -15,7 +15,6 @@ After looking through our project we hope you can see why LiDAR is so important 
 # WE HOPE YOU LEARNED MORE ABOUT ARCHAEOLOGY AND REMOTE SENSING!
 
 ![Image](UNIT.PNG)
-
 ###### White (2013)
 
 
