@@ -33,6 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![FLOWER](Hydrangeas.jpg)
 
+:sweet_potato:
 
 # WHAT IS REMOTE SENSING?
 - Remote sinsing is using technology to to remotely find and study the enviornment.
