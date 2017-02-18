@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Pierce Mounds
 
-You can use the [editor on GitHub](https://github.com/kkreiser/workshop_2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## This is a prehistoric mound site in northwest Florida that was documented over 100 years ago.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](historic.PNG)
 
-### Markdown
+## There are multipile mounds that make up a site. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](a.PNG)
 
-```markdown
-Syntax highlighted code block
+![Image](piercemound.PNG)
 
+## The site has been excavated in the past, uncovering many artifacts.
 
+![Image](ceramics.PNG)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
+## We want to utilize new technologies to study the site even further. 
 
 [CHECK OUT OUR PROJECT](Introduction.md)
 
 
+[NEXT](Introduction.md)
