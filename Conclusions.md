@@ -16,7 +16,7 @@ After looking through our project we hope you can see why LiDAR is so important 
 
 ![Image](UNIT.PNG)
 
-White (2013)
+###### White (2013)
 
 
 ###### Sources
