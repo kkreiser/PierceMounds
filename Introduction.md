@@ -1,6 +1,6 @@
 # WHAT IS REMOTE SENSING?
-- Remote sensing uses technology to to remotely find and study the enviornment.
-- By scanning the environment with lasers, data is collected about the landscape below (the measurement is based on how quickly light is bounced back to the system)
+- Remote sensing uses technology to remotely find and study the enviornment.
+- By scanning the environment with lasers, data is collected about the landscape below (the laser measurement is based on how quickly light is bounced back to the system)
 - LiDAR (Light Detection and Ranging) is one way to gather aerial images of the landscape.
 - We can use remote sensing to gather information from large areas that may be difficult to study from the ground.
 - Archaeologists can use remote sensing and LiDAR to find historic homesteads or foundations, old field furrows, mounds, or other earthworks.
